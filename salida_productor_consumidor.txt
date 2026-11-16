@@ -1,0 +1,49 @@
+=== PROBLEMA PRODUCTOR-CONSUMIDOR ===
+Productores: 2 | Consumidores: 2 | Tamano del buffer: 5
+
+Productor 1 produjo el elemento 101
+Productor 1 produjo el elemento 102
+Productor 1 produjo el elemento 103
+Productor 1 produjo el elemento 104
+Productor 1 produjo el elemento 105
+Consumidor 1 consumio el elemento 101
+Consumidor 1 consumio el elemento 102
+Consumidor 1 consumio el elemento 103
+Consumidor 1 consumio el elemento 104
+Consumidor 1 consumio el elemento 105
+Productor 1 produjo el elemento 106
+Productor 1 produjo el elemento 107
+Productor 1 produjo el elemento 108
+Productor 1 produjo el elemento 109
+Productor 1 produjo el elemento 110
+Productor 1 termino.
+Consumidor 1 consumio el elemento 106
+Consumidor 1 consumio el elemento 107
+Consumidor 1 consumio el elemento 108
+Consumidor 1 consumio el elemento 109
+Consumidor 1 consumio el elemento 110
+Productor 2 produjo el elemento 201
+Productor 2 produjo el elemento 202
+Productor 2 produjo el elemento 203
+Productor 2 produjo el elemento 204
+Productor 2 produjo el elemento 205
+Consumidor 1 consumio el elemento 201
+Consumidor 1 consumio el elemento 202
+Consumidor 1 consumio el elemento 203
+Consumidor 1 consumio el elemento 204
+Consumidor 1 consumio el elemento 205
+Productor 2 produjo el elemento 206
+Productor 2 produjo el elemento 207
+Productor 2 produjo el elemento 208
+Productor 2 produjo el elemento 209
+Productor 2 produjo el elemento 210
+Productor 2 termino.
+Consumidor 1 consumio el elemento 206
+Consumidor 1 consumio el elemento 207
+Consumidor 1 consumio el elemento 208
+Consumidor 1 consumio el elemento 209
+Consumidor 1 consumio el elemento 210
+Consumidor 1 recibio la senal de finalizacion.
+Consumidor 2 recibio la senal de finalizacion.
+
+Proceso terminado: se produjeron y consumieron 20 elementos.

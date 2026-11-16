@@ -1,0 +1,85 @@
+=== PROBLEMA DE LA CENA DE LOS FILOSOFOS ===
+Hay 5 filosofos y 5 tenedores. Cada filosofo comera 3 veces.
+
+Filosofo 1 esta pensando (ronda 1).
+Filosofo 2 esta pensando (ronda 1).
+Filosofo 3 esta pensando (ronda 1).
+Filosofo 4 esta pensando (ronda 1).
+Filosofo 5 esta pensando (ronda 1).
+Filosofo 3 tomo el tenedor 3.
+Filosofo 1 tomo el tenedor 1.
+Filosofo 1 tomo el tenedor 2.
+Filosofo 1 ESTA COMIENDO (ronda 1).
+Filosofo 3 tomo el tenedor 4.
+Filosofo 3 ESTA COMIENDO (ronda 1).
+Filosofo 1 dejo los tenedores.
+Filosofo 1 esta pensando (ronda 2).
+Filosofo 4 tomo el tenedor 4.
+Filosofo 4 tomo el tenedor 5.
+Filosofo 4 ESTA COMIENDO (ronda 1).
+Filosofo 5 tomo el tenedor 1.
+Filosofo 3 dejo los tenedores.
+Filosofo 3 esta pensando (ronda 2).
+Filosofo 2 tomo el tenedor 2.
+Filosofo 2 tomo el tenedor 3.
+Filosofo 2 ESTA COMIENDO (ronda 1).
+Filosofo 4 dejo los tenedores.
+Filosofo 4 esta pensando (ronda 2).
+Filosofo 2 dejo los tenedores.
+Filosofo 2 esta pensando (ronda 2).
+Filosofo 5 tomo el tenedor 5.
+Filosofo 5 ESTA COMIENDO (ronda 1).
+Filosofo 3 tomo el tenedor 3.
+Filosofo 3 tomo el tenedor 4.
+Filosofo 3 ESTA COMIENDO (ronda 2).
+Filosofo 4 tomo el tenedor 4.
+Filosofo 2 tomo el tenedor 2.
+Filosofo 2 tomo el tenedor 3.
+Filosofo 2 ESTA COMIENDO (ronda 2).
+Filosofo 5 dejo los tenedores.
+Filosofo 5 esta pensando (ronda 2).
+Filosofo 3 dejo los tenedores.
+Filosofo 3 esta pensando (ronda 3).
+Filosofo 1 tomo el tenedor 1.
+Filosofo 2 dejo los tenedores.
+Filosofo 2 esta pensando (ronda 3).
+Filosofo 4 tomo el tenedor 5.
+Filosofo 4 ESTA COMIENDO (ronda 2).
+Filosofo 1 tomo el tenedor 2.
+Filosofo 1 ESTA COMIENDO (ronda 2).
+Filosofo 3 tomo el tenedor 3.
+Filosofo 4 dejo los tenedores.
+Filosofo 4 esta pensando (ronda 3).
+Filosofo 1 dejo los tenedores.
+Filosofo 1 esta pensando (ronda 3).
+Filosofo 3 tomo el tenedor 4.
+Filosofo 3 ESTA COMIENDO (ronda 3).
+Filosofo 2 tomo el tenedor 2.
+Filosofo 5 tomo el tenedor 1.
+Filosofo 5 tomo el tenedor 5.
+Filosofo 5 ESTA COMIENDO (ronda 2).
+Filosofo 4 tomo el tenedor 4.
+Filosofo 2 tomo el tenedor 3.
+Filosofo 2 ESTA COMIENDO (ronda 3).
+Filosofo 3 dejo los tenedores.
+Filosofo 3 termino de comer.
+Filosofo 5 dejo los tenedores.
+Filosofo 5 esta pensando (ronda 3).
+Filosofo 1 tomo el tenedor 1.
+Filosofo 4 tomo el tenedor 5.
+Filosofo 4 ESTA COMIENDO (ronda 3).
+Filosofo 2 dejo los tenedores.
+Filosofo 2 termino de comer.
+Filosofo 1 tomo el tenedor 2.
+Filosofo 1 ESTA COMIENDO (ronda 3).
+Filosofo 1 dejo los tenedores.
+Filosofo 1 termino de comer.
+Filosofo 5 tomo el tenedor 1.
+Filosofo 4 dejo los tenedores.
+Filosofo 4 termino de comer.
+Filosofo 5 tomo el tenedor 5.
+Filosofo 5 ESTA COMIENDO (ronda 3).
+Filosofo 5 dejo los tenedores.
+Filosofo 5 termino de comer.
+
+Todos los filosofos terminaron. No ocurrio interbloqueo.
